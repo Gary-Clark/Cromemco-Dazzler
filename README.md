@@ -8,7 +8,7 @@ Revision C
 
 This will require the original vintage components to construct.
 
-PCB artwork was created by Hugo Holden of the Vintage Computer Federation and the PCB layout created by myself.
+PCB artwork was created by Hugo Holden of the Vintage Computer Federation and the PCB layout created by myself, Gary Clark of the North West Computer Museum, leigh Near Manchester, England.
 
 Thread here https://forum.vcfed.org/index.php?threads/cromemco-dazzler-replica-project.77906/
 
